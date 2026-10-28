@@ -1,0 +1,2 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Manrope:wght@400;500;600;700&display=swap');
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Inter,Arial,sans-serif;color:#64757A;background:#F8F7F2;-webkit-font-smoothing:antialiased}button,a{font:inherit}a{text-decoration:none}button{cursor:pointer}#root{min-height:100vh}
