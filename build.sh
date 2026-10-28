@@ -7,4 +7,4 @@ npm run build
 cd ..
 
 python -m pip install --upgrade pip
-python -m pip install -r backend/requirements.txt
+python -m pip install -r requirements.txt
